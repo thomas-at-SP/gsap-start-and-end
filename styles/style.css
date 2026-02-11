@@ -1,0 +1,26 @@
+body {
+	margin: 0;
+}
+
+.div1, .div2 {
+	height: 100vh;
+	z-index: -1;
+}
+
+.div1 {
+	background-color: silver;
+}
+
+.div2 {
+	background-color:darkgray;
+}
+
+.square1 {
+	width: 150px;
+	height: 150px;
+	background-color:dimgray;
+}
+
+.black {
+	background-color:black;
+}
