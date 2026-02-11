@@ -1,5 +1,5 @@
 import { gsap } from "gsap";
-import { _numWithUnitExp } from "gsap/gsap-core";
+// import { _numWithUnitExp } from "gsap/gsap-core";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 
 // Register the ScrollTrigger plugin
